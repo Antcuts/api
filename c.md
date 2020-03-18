@@ -1,1 +1,1 @@
-hi, egg
+{"InfyCuts 终极快捷指令":"https:\/\/www.icloud.com\/shortcuts\/29973b1defdc4249bccbc99e4da70025"}
