@@ -1,1 +1,1 @@
-{"https:\/\/www.icloud.com\/shortcuts\/29973b1defdc4249bccbc99e4da70025":"终极快捷指令","https:\/\/www.icloud.com\/shortcuts\/efe6abc3bf524c2f8fe51fff63e7e764":"Tester"}
+{"https:\/\/www.icloud.com\/shortcuts\/29973b1defdc4249bccbc99e4da70025":"终极快捷指令"}
