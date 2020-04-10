@@ -1,3 +1,0 @@
-antid001@tensi.org+001Antid
-antid002@tensi.org+002Antid
-antid003@tensi.org+003Antid
